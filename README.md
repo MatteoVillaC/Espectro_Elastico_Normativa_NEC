@@ -1,5 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=https://github.com/MatteoVillaC)
 
+[![View Espectro_Elastico_Normativa_NEC on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/170341-espectro_elastico_normativa_nec)
+
 # Titulo de la Actividad
 Gráfica del Espectro Elástico de la Norma Ecuatoriana de la Construcción (NEC)
 
