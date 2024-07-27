@@ -1,6 +1,6 @@
 (Espacio para los badges de MATLAB Online y File Exchange)
 
-# (Adicione aquí el Titulo de la Actividad de Enseñanza)
+# Titulo de la Actividad
 Gráfica del Espectro Elástico de la Norma Ecuatoriana de la Construcción (NEC)
 
 ## Autor
