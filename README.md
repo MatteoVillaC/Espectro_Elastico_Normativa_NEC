@@ -21,7 +21,7 @@ La actividad es apropiada para poner en práctica los conceptos básicos del man
 a las ecuaciones que presenta la Norma Ecuatoriana de la Construcción (NEC) para la elaboración de 
 un espectro elástico.
 
-## Asignaturas o departmento donde se puede usar la Actividad
+## Asignaturas o departamento donde se puede usar la Actividad
 Ingeniería Civil, Estructuras
 
 ## Notas para los Educadores usando la Actividad
