@@ -14,7 +14,7 @@ Espectros Elásticos de Diseño Sismorresistente. En donde, mediante las ecuacio
 en la normativa Ecuatoriana de la Construcción (NEC) los estudiantes deberán elaborar un código 
 que replique los resultados presentados en este Script, para diferentes tipos de suelo y diferentes 
 rangos de periodos. 
-Palabras Clave: Ingeniería Civil, Estructuras Sismorresistentes, Espectros Elásticos, Diseño Estructural.
+Palabras Clave: Ingeniería Civil. Estructuras Sismorresistentes. Espectros Elásticos. Diseño Estructural.
 
 ## Contexto o pre-requisitos
 La actividad es apropiada para poner en práctica los conceptos básicos del manejo de MATLAB en base
@@ -26,11 +26,11 @@ Ingeniería Civil, Estructuras
 
 ## Notas para los Educadores usando la Actividad
 Los docentes podrán explicar los conceptos básicos presentados y las ecuaciones que se muestran, 
-además podrá mostrar los resultados obtenidos y el estudiante deberá replicar con el fin de obtener 
+además podra mostrar los resultados obtenidos y el estudiante deberá replicar con el fin de obtener 
 los mismos resultados.
 
 ## Evaluación
-Los estudiantes deberán mostrar la gráfica final mostrada el en script para diferentes tipos de suelos
+Los estudiantes deberán mostrar la gráfica presentada en el script, para diferentes tipos de suelos
 
 ## Recursos adicionales
 El diseño del espectro se elabora mediante la Normativa referenciada al final del script. 
